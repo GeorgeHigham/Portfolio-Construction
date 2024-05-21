@@ -8,6 +8,7 @@ The results of this can be seen in the graphs below.
 
 
 <img src="images/returns_line.png" alt="alt text" width=500" height="400">
+
 <img src="images/bar.png" alt="alt text" width=500" height="400">
 
 
