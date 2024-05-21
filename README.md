@@ -10,6 +10,7 @@ The returns of the two portfolios in the test period can be seen below.
 
 <img src="images/returns_line.png" alt="alt text" width="700" height="400">
 
+To upload to GitHub the data has been split into three where it was originally one csv.
 
 # References
 Optimisation code: Lewinson, E., 2020. Python for Finance Cookbook. Place of publication: Packt Publishing Ltd.
