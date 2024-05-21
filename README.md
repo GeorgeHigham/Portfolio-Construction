@@ -7,7 +7,7 @@ The portfolio is constructed by setting an objective function to maximise risk a
 The results of this can be seen in the graphs below.
 
 
-<img src="Images/returns_line.png" alt="alt text" width=500" height="400">
+<img src="images/returns_line.png" alt="alt text" width=500" height="400">
 
 
 
