@@ -7,7 +7,7 @@ The portfolio is constructed by setting an objective function to maximise risk a
 
 Portfolios chosen.
 
-<img src="images/sharpe_vol_portfolios.png" alt="alt text" width="700" height="400">
+<img src="images/sharpe_vol_portfolios.png" alt="alt text" width="500" height="200">
 
 Calculated portfolio weightings by risk level.
 
