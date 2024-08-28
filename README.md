@@ -5,7 +5,7 @@ The goal for this project was to test my coding skills in a topic relevant to my
 
 The portfolio is constructed by setting an objective function to maximise risk adjusted returns and entering it into a solver to create an optimised portfolio for different risk levels. Two portfolios were examined against the "market" (mean of all available S&P500 stocks) performance, the optimised portfolio with minimum volatility and the optimised portfolio with the maximum sharpe ratio. Further results and details of the portfolios can be seen in the images folder.
 
-Portfolios chosen.
+Portfolios chosen by performance on historical data.
 
 <img src="images/sharpe_vol_portfolios.png" alt="alt text" width="500" height="200">
 
