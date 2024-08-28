@@ -13,7 +13,7 @@ Calculated portfolio weightings by risk level.
 
 <img src="images/weights_bar.png" alt="alt text" width="700" height="400">
 
-The returns of the two portfolios compared to an evenly distributed portfolio.
+The returns of the two portfolios compared to an evenly distributed portfolio for the next period.
 
 <img src="images/returns_line.png" alt="alt text" width="700" height="400">
 
